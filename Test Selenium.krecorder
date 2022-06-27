@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<title>Test</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3" data-tags="">Test-Task 2-2.1 Selenium</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://demoqa.com/<datalist><option>https://demoqa.com/</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=path<datalist><option>css=path</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=item-1<datalist><option>id=item-1</option><option>xpath=//li[@id='item-1']</option><option>xpath=//div[@id='app']/div/div/div[2]/div/div/div/div/div/ul/li[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Text Box'])[1]/following::li[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Elements'])[2]/following::li[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Radio Button'])[1]/preceding::li[1]</option><option>xpath=//li[2]</option><option>css=#item-1</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=svg.rct-icon.rct-icon-uncheck > path<datalist><option>css=svg.rct-icon.rct-icon-uncheck > path</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=item-2<datalist><option>id=item-2</option><option>xpath=//li[@id='item-2']</option><option>xpath=//div[@id='app']/div/div/div[2]/div/div/div/div/div/ul/li[3]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Check Box'])[2]/following::li[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Text Box'])[1]/following::li[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Web Tables'])[1]/preceding::li[1]</option><option>xpath=//li[3]</option><option>css=#item-2</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>xpath=//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[3]/label<datalist><option>xpath=//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[3]/label</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::label[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Do you like the site?'])[1]/following::label[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::label[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::label[2]</option><option>xpath=//*/text()[normalize-space(.)='Impressive']/parent::*</option><option>xpath=//div[3]/label</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>xpath=//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/label<datalist><option>xpath=//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/label</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Do you like the site?'])[1]/following::label[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Book Store API'])[1]/following::label[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Impressive'])[1]/preceding::label[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::label[2]</option><option>xpath=//*/text()[normalize-space(.)='Yes']/parent::*</option><option>xpath=//label</option><option>css=label.custom-control-label</option></datalist></td><td></td></tr>
+</tbody></table>
+</body>
+</html>
